@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AmitLakhani Founder at Bytecodes.
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently Learning MVVM pattern with Diffrent Statemanagement,
+- 🌱 I’m currently Learning MVVM pattern with different state management
 - 💞️ I’m looking to collaborate with Flutter Developers
 - 📫 How to reach me contact@bytecodes.in OR +91 9998220731
 
