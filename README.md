@@ -1,4 +1,4 @@
 - 👋 Hi, I’m AmitLakhani working at AcodeSoft Technologies.
 - 👀 I’m interested in Application Development
 - 🌱 I’m currently Learning MVVM pattern with different state management
-- 📫 How to reach me contact@bytecodes.in OR +91 9998220731
+- 📫 How to reach me amitlakhani098@gmail.com OR +91 9998220731
