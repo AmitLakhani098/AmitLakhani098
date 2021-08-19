@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AmitLakhani working at AcodeSoft Technologies.
-- 👀 I’m interested in Application Development
-- 🌱 I’m currently Learning MVVM pattern with different state management
+- 👋 Hi, I’m AmitLakhani founder Butecodes.in 
+- 👀 I’m interested in Application Development & WebDevelopment 
+- 🌱 I want to Develope my E-Commerce and Food Application & Website
 - 📫 How to reach me amitlakhani098@gmail.com OR +91 9998220731
