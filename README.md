@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AmitLakhani founder Butecodes.in 
+- 👋 Hi, I’m AmitLakhani founder TryzenSoulution.com
 - 👀 I’m interested in Application Development & WebDevelopment 
 - 🌱 I want to Develope my E-Commerce and Food Application & Website
 - 📫 How to reach me amitlakhani098@gmail.com OR +91 9998220731
